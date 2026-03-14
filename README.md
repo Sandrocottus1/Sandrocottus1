@@ -26,12 +26,12 @@
 
 ### 🚀 About Me
 
-* [cite_start]🎓 I am currently pursuing my Bachelor of Technology at the National Institute of Technology, Silchar[cite: 22].
-* [cite_start]💼 Previously, I worked as a Satyendranath Bose Intern, developing a Short-Term Load Forecasting Model[cite: 36].
-* [cite_start]🔭 I am currently building a Sandboxed Remote Code Execution Platform using Node.js, Redis, and Docker[cite: 41, 44, 46].
-* [cite_start]🤖 I have also developed a RAG-Based AI Knowledge Retrieval Engine using Python and FAISS[cite: 47, 51, 52].
-* [cite_start]🏆 I am a Codeforces Specialist with a maximum rating of 1429[cite: 65].
-* [cite_start]⭐ I have solved over 1200+ Data Structures and Algorithms problems across platforms like LeetCode, Codeforces, and GFG[cite: 67].
+* 🎓 I am currently pursuing my Bachelor of Technology at the National Institute of Technology, Silchar.
+* 💼 Previously, I worked as a Satyendranath Bose Intern, developing a Short-Term Load Forecasting Model.
+* 🔭 I am currently building a Sandboxed Remote Code Execution Platform using Node.js, Redis, and Docker.
+* 🤖 I have also developed a RAG-Based AI Knowledge Retrieval Engine using Python and FAISS.
+* 🏆 I am a Codeforces Specialist with a maximum rating of 1429.
+* ⭐ I have solved over 1200+ Data Structures and Algorithms problems across platforms like LeetCode, Codeforces, and GFG.
 
 ---
 
