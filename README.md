@@ -34,7 +34,7 @@
 
 ## About Me
 
-I am a graduate in Computer Science/Engineering from the National Institute of Technology, Silchar, with a strong focus on backend development, distributed systems, and applied AI.
+I am a graduate in Electrical Engineering from the National Institute of Technology, Silchar, with a strong focus on backend development, distributed systems, and applied AI.
 
 - Built a sandboxed remote code execution platform using Node.js, Redis, and Docker.
 - Developed a RAG-based AI knowledge retrieval engine using Python and FAISS.
