@@ -109,18 +109,17 @@ Built a retrieval-augmented system for semantic knowledge search and response ge
 
 ## GitHub Stats
 
-## GitHub Stats
-
-## GitHub Stats
-
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Sandrocottus1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=Sandrocottus1&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF"
     alt="GitHub Stats"
     height="165"
   />
+</div>
+
+<div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrocottus1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrocottus1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"
     alt="Top Languages"
     height="165"
   />
