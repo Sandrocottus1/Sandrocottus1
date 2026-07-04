@@ -109,13 +109,27 @@ Built a retrieval-augmented system for semantic knowledge search and response ge
 
 ## GitHub Stats
 
+## GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sandrocottus1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrocottus1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF" alt="Top Languages" width="48%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Sandrocottus1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&cache_seconds=1800"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandrocottus1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF&cache_seconds=1800"
+    alt="Top Languages"
+    height="165"
+  />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sandrocottus1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=FFFFFF" alt="GitHub Streak" width="60%" />
+  <img
+    src="https://streak-stats.demolab.com?user=Sandrocottus1&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakLabel=FFFFFF"
+    alt="GitHub Streak"
+    height="165"
+  />
 </div>
 
 ---
